@@ -1,0 +1,6 @@
+{
+  "appId": "com.quantbot.terminal",
+  "appName": "QuantBot",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
